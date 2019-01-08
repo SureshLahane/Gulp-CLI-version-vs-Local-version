@@ -15,15 +15,15 @@ Creating folder strcture.
 
 |- src/ 
 
-   |- css/
-   
-      |- style.css // we will created by gulf sass
-      
-   |- sass/
-   
-      |- style.scss
-      
-   |- index.html
+      &nbsp;&nbsp;|- css/
+
+         &nbsp;&nbsp;&nbsp;|- style.css // we will created by gulf sass
+
+      &nbsp;&nbsp;|- sass/
+
+         &nbsp;&nbsp;&nbsp;|- style.scss
+
+      &nbsp;&nbsp;|- index.html
    
 |- gulpfile.js
 
