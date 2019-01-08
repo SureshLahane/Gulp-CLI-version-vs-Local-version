@@ -1,0 +1,9 @@
+$body-bg-color: #b0e23a;
+$body-text-color :#ffffff;
+ 
+body{
+    background-color: $body-bg-color;
+
+    h1{color: $body-text-color;}
+    span{color: $body-bg-color;}
+}
