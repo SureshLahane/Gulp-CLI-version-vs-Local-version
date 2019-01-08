@@ -9,6 +9,7 @@ $ npm install gulp -g
 *Within our project folder
 
 Creating folder strcture
+
 |- src/ 
 
    |- css/
