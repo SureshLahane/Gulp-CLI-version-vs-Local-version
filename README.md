@@ -9,13 +9,20 @@ $ npm install gulp -g
 *Within our project folder
 
 Creating folder strcture
-|- src/
+|- src/ 
+
    |- css/
+   
       |- style.css // we will created by gulf sass
+      
    |- sass/
+   
       |- style.scss
+      
    |- index.html
+   
 |- gulpfile.js
+
 |- package.json
 
 The npm init command creates a package.json
