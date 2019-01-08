@@ -3,6 +3,8 @@ Gulp File for Mismatch in Gulp CLI and Local versions.
 
 Setting up globally and in project folder.
 
+"$" is just a symbolizes the command prompt. That's not actually part of the command you run.
+
 install Gulp globally.
 
 $ npm install gulp -g
